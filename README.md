@@ -284,3 +284,12 @@ Solidworksで求めた各パーツの質量と慣性モーメント（推定）
     Iyx = 0.000000    Iyy = 0.000016    Iyz = 0.000000
     Izx = 0.000000    Izy = 0.000000    Izz = 0.000017
 ```
+
+## 各ジョイントの位置
+公式サイト画像，加筆．  
+CADファイルより寸法を計測して，ジョイントの位置を決定した．
+
+![img](.image/nachi_mz07_frame.png)
+
+> 世界最速 軽量コンパクトロボット MZ07  
+> [http://www.nachi-fujikoshi.co.jp/rob/hand/mz07b.htm](http://www.nachi-fujikoshi.co.jp/rob/hand/mz07b.htm)
